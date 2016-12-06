@@ -1,3 +1,7 @@
 .navbar-default {
    border-bottom: 3px solid #eeeeee;
 }
+
+.navbar-brand a {
+   text-transform: capitalize;
+}
