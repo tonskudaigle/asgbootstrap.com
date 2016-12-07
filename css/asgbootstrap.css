@@ -73,3 +73,7 @@ blockquote-footer {
    font-weight: bold;
    text-transform: uppercase;
 }
+
+.navbar-brand a {
+   text-transform: capitalize;
+}
