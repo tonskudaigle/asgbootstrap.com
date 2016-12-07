@@ -8,7 +8,7 @@
       <title>arctic-connect.com mockup layout</title>
     <!-- Bootstrap CSS -->
       <link rel="stylesheet" href="css/bootstrap.min.css" />
-      <link rel="stylesheet" href="css/bootswatch.min.css" />
+      <!-- <link rel="stylesheet" href="css/bootswatch.min.css" /> -->
     <!-- Custom CSS -->
       <link rel="stylesheet" href="css/asgbootstrap.css" />
       <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -22,19 +22,30 @@
         <div class="container-fluid">
           <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-              <span class="sr-only">NÃ¤ytÃ¤ valikko</span>
+              <span class="sr-only">Näytä valikko</span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#"><img src="img/aclogo.png" /></a>
-            <a class="navbar-brand" href="#">Arctic Connect</a>
+            <div class="navbar-text">
+                  <form class="form-inline">
+                     <div class="form-group">
+                        <label for="username">Käyttäjätunnus: </label>
+                        <input type="text" class="form-control" id="username" placeholder="käyttäjätunnuksesi" />
+                     </div>
+                     <div class="form-group">
+                        <label for="password">Salasana: </label>
+                        <input type="password" class="form-control" id="password">
+                     </div>
+                     <button type="submit" class="btn btn-default">Kirjaudu</button>
+                  </form>
+            </div>
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
               <li class="active"><a href="#">Etusivu</a></li>
               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Arctic Cloud <b class="caret"></b></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" onmouseover="this.click();">Arctic Cloud <b class="caret"></b></a>
                 <ul class="dropdown-menu">
                   <li class="dropdown-header">Arctic Cloud -kokonaisuus</li>
                   <li><a href="#">Tietoa</a></li>
@@ -57,9 +68,7 @@
 
       <div id="stage">
          <div id="stage-caption">
-            <h1 class="display-3">Parempaa videoneuvottelua</h1>
-            <p>Lorem ipsum liirumi laarumi höpön löpön ja kaikkea muuta siltä väliltä.</p>
-            <a href="" class="btn btn-lg btn-success">Tilaa uutiskirje</a>
+
          </div>
       </div>
     </body>
