@@ -1,21 +1,4 @@
-@import "navbar.css";
-
-.navbar-text form {
-   margin-top: -6px;
-}
-
-.navbar-text input, .navbar-text label {
-   font-size: 13px;
-}
-
-.navbar-default {
-   max-height: 53px;
-}
-
-/** stage **/
-
-html,
-body {
+html, body {
    height: 100%;
 }
 
@@ -25,47 +8,50 @@ body {
    color: #6c6f73;
 }
 
-h1,h2,h3,h4,h5 {
-   color: #333333;
+/** NAVBAR TWEAKS **/
+
+.navbar-default {
+   border-bottom: 3px solid #FF9900;
+   background-color: #333;
+   border-radius: 5px;
 }
 
-h6 {
-   text-transform: uppercase;
-   font-weight: bold;
-   font-size: 0.8rem;
-   letter-spacing: 0.1rem;
+/* MENU TWEAKS */
+
+.dropdown-menu {
+   background-color: #333;
 }
 
-img {
-   max-width: 100%;
+.dropdown-header {
+   color: #FF9900;
+   background-color: #666;
 }
 
-.blockquote {
-   font-size: 1.6rem;
-   color: #333;
-   border: none;
-   padding: 0;
+.dropdown-divider-bg {
+   color: red;
 }
 
-blockquote-footer {
-   margin: 1rem 0 0;
+
+/** stage **/
+
+.h1-stage {
+   font-size: 48px;
 }
 
 #stage {
-   background: url('../img/acwallpaper.jpg') center center no-repeat;
-   background-size: cover;
-   color: #333;
-   height: 500px;
+   color: #626262;
+   height: 100%;
    width: 100%;
    display: flex;
    align-items: center;
 }
 
 #stage-caption {
-   font-size: 1.4rem;
-   font-weight: 200;
-   max-width: 60rem;
+   font-size: 18px;
+   font-weight: normal;
+   max-width: 960px;
    margin: 0 auto;
+   text-align: left;
 }
 
 #stage-caption h1 {
@@ -74,6 +60,143 @@ blockquote-footer {
    text-transform: uppercase;
 }
 
-.navbar-brand a {
-   text-transform: capitalize;
+h1,h2,h3,h4,h5 {
+   color: #333;
+}
+
+h6 {
+   text-transform: uppercase;
+   font-weight: bold;
+   font-size: 16px;
+   letter-spacing: 3px;
+}
+
+img {
+   max-width: 100%;
+}
+
+.blockquote {
+   font-size: 18px;
+   color: #333;
+   border: none;
+   padding: 0;
+}
+
+.blockquote-footer {
+   margin: 16px 0 0;
+}
+
+/** FRONT PAGE PARALLAX **/
+
+.parallax-1 {
+   background-image: url("../img/acwallpaper.jpg");
+   height: 80%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.parallax-2 {
+   background-image: url("../img/home-fhdacbackground.jpg");
+   height: 80%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.parallax-3 {
+   background-image: url("../img/12090040.jpg");
+   height: 80%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.parallax-4 {
+   background-image: url("../img/IMG_0280.jpg");
+   height: 80%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.parallax-5 {
+   background-image: url("../img/FinnFoto_310526.jpg");
+   height: 80%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.parallax-6 {
+   background-image: url("../img/15102010258.jpg");
+   height: 80%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.stage-key-products {
+   background-color: #FFF;
+   text-align: center;
+   padding: 20px;
+}
+
+.stage-references {
+   background-color: #FFF;
+   text-align: center;
+   padding: 20px;
+}
+
+.stage-blog-posts {
+   background-color: #FFF;
+   text-align: center;
+   padding: 20px;
+}
+
+.stage-devices-partners {
+   background-color: #FFF;
+   text-align: center;
+   padding: 20px;
+}
+
+.stage-why-us {
+   background-color: #FFF;
+   text-align: center;
+   padding: 20px;
+}
+
+.stage-contact {
+   background-color: #FFF;
+   text-align: center;
+   padding: 20px;
+}
+
+.footer {
+   background-color: #333;
+   color: #eee;
+   height: 200px;
+   font-size: 16px;
+   text-align: center;
+   padding: 20px;
+}
+
+/* stage section blurs */
+
+.parallax-2, .parallax-3, .parallax-4, .parallax-5, .parallax-6 {
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-filter: contrast(150%);
+  -moz-filter: contrast(150%);
+  -o-filter: contrast(150%);
+  -ms-filter: contrast(150%);
+  filter: contrast(150%) brightness(80%);
 }

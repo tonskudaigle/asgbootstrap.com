@@ -27,29 +27,14 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <div class="navbar-text">
-                  <form class="form-inline">
-                     <div class="form-group">
-                        <label for="username">Käyttäjätunnus: </label>
-                        <input type="text" class="form-control" id="username" placeholder="käyttäjätunnuksesi" />
-                     </div>
-                     <div class="form-group">
-                        <label for="password">Salasana: </label>
-                        <input type="password" class="form-control" id="password">
-                     </div>
-                     <button type="submit" class="btn btn-default">Kirjaudu</button>
-                  </form>
-            </div>
+
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
               <li class="active"><a href="#">Etusivu</a></li>
               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" onmouseover="this.click();">Arctic Cloud <b class="caret"></b></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Arctic Cloud <b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                  <li class="dropdown-header">Arctic Cloud -kokonaisuus</li>
-                  <li><a href="#">Tietoa</a></li>
-                  <li class="dropdown-header">Tuotteet</li>
                   <li><a href="#">Arctic Conference</a></li>
                   <li><a href="#">Arctic Firewall Traversal</a></li>
                   <li><a href="#">Arctic Phone</a></li>
@@ -65,12 +50,191 @@
           </div>
         </div>
       </div>
+      <div class="parallax-1">
 
-      <div id="stage">
-         <div id="stage-caption">
+      </div>
 
+
+      <div class="stage-key-products">
+
+         <div class="container marketing">
+
+      <!-- Three columns of text below the carousel -->
+
+            <div class="row">
+            <h1>ARCTIC CLOUD</h1>
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+            </div><!-- /.row -->
          </div>
       </div>
+
+      <div class="parallax-2">
+
+      </div>
+
+      <div class="stage-references">
+         <div class="container marketing">
+
+      <!-- Three columns of text below the carousel -->
+
+            <div class="row">
+            <h1>REFERENSSIT</h1>
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+            </div><!-- /.row -->
+         </div>
+      </div>
+
+      <div class="parallax-3">
+
+      </div>
+
+      <div class="stage-blog-posts">
+         <div class="container marketing">
+         <!-- Three columns of text below the carousel -->
+
+            <div class="row">
+               <h1>BLOGKIRJOITUKSIA</h1>
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+            </div><!-- /.row -->
+         </div>
+      </div>
+
+      <div class="parallax-4">
+
+      </div>
+
+      <div class="stage-devices-partners">
+         <div class="container marketing">
+         <!-- Three columns of text below the carousel -->
+
+            <div class="row">
+               <h1>LAITTEET JA PARTNERIT</h1>
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+            </div><!-- /.row -->
+         </div>
+      </div>
+
+      <div class="parallax-5">
+
+      </div>
+
+      <div class="stage-why-us">
+         <div class="container marketing">
+         <!-- Three columns of text below the carousel -->
+
+            <div class="row">
+               <h1>MIKSI VALITA MEIDÄT?</h1>
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+              <div class="col-lg-4">
+                <img src="./img/newsdot.png" />
+                <h2>Heading</h2>
+                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-lg-4 -->
+            </div><!-- /.row -->
+         </div>
+      </div>
+
+      <div class="parallax-6">
+
+      </div>
+
+      <div class="stage-contact">
+         <div id="stage">
+            <div id="stage-caption">
+               <h1>OTA YHTEYTTÄ</h1>
+               <p>
+                  Meiltä saat ratkaisun videoneuvottelutarpeisiisi, oli se millainen tahansa.
+               </p>
+               <a href="" class="btn btn-lg btn-success">Ota yhteyttä</a>
+            </div>
+         </div>
+      </div>
+
+      <div class="footer">
+         footer
+      </div>
+
+
     </body>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
