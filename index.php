@@ -62,24 +62,24 @@
       <!-- Three columns of text below the carousel -->
 
             <div class="row">
-            <h1>ARCTIC CLOUD</h1>
+            <h1>OSA ARCTIC CLOUD KOKONAISUUDESTAMME</h1>
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
-                <h2>Heading</h2>
-                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                <img src="./img/arctic_conference.png" class="img-thumbnail" />
+                <h2>Conference</h2>
+                <p>Arctic Conference on eritt‰in helppok‰yttˆinen ja luotettava virtuaalinen neuvotteluhuonepalvelu. Palvelun kautta voit saada omaan k‰yttˆˆsi yhden tai useamman virtuaalisen neuvotteluhuoneen videoneuvottelun kauttan tapahtuviin ryhm‰neuvotteluihin.</p>
+                <p><a class="btn btn-default" href="#" role="button">Lue lis‰‰ &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
-                <h2>Heading</h2>
-                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                <img src="./img/arctic_firewall_traversal.png" class="img-thumbnail" />
+                <h2>Firewall Traversal</h2>
+                <p>Arctic Firewall Traversal perustuu eritt‰in saumattomasti toimivaan Videotunneli.com&copy; palomuurin l‰p‰isytekniikkaan. Palvelu on merkkiriippumaton ja markkinoiden tehokkain tapa toteuttaa tietoturvalliset videoneuvotteluyhteydet julkisen verkon ja yksityisen verkon v‰lill‰. Palvelussa tarvitaan vain yksi palomuuriportti ulosp‰in auki ja mit‰‰n ei tarvitse avata sis‰‰np‰in.</p>
+                <p><a class="btn btn-default" href="#" role="button">Lue lis‰‰ &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
-                <h2>Heading</h2>
-                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                <img src="./img/arctic_streaming.png" class="img-thumbnail" />
+                <h2>Streaming & Recording</h2>
+                <p>Arctic Streaming on laadukas ja monipuolinen streamauspalvelu. Streamaus-palvelu on mahdollista toteuttaa moneen erilaiseen tarpeeseen aina pienemmist‰ tilaisuuksista suurempiin tilaisuuksiin.</p>
+                <p><a class="btn btn-default" href="#" role="button">Lue lis‰‰ &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
          </div>
@@ -97,24 +97,26 @@
             <div class="row">
             <h1>REFERENSSIT</h1>
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
-                <h2>Heading</h2>
-                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                <img src="./img/hus-logo.png" />
+                <p>Arctic Connect Oy tuottaa Helsingin ja Uudenmaan sairaanhoitopiirin videoneuvotteluratkaisut aina auditorioiden videointimahdollisuuksista Medical Meetings varausj‰rjestelm‰‰n.</p>
+                <p><a class="btn btn-primary" href="#" role="button">Lue lis‰‰ &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
-                <h2>Heading</h2>
-                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                <img src="./img/fcg-logo.png" />
+                <p>FCG k‰ytt‰‰ Arctic Connectin Streaming ja Recording ratkaisuita koulutuksiensa toteuttamiseen ja voi n‰in tarjota asiakkailleen joustavaa koulutustoimintaa ajasta ja paikasta riippumatta.</p>
+                <p><a class="btn btn-primary" href="#" role="button">Lue lis‰‰ &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
-                <h2>Heading</h2>
-                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                <img src="./img/ppshp-logo.png" />
+                <p>Oulun Yliopistollinen Sairaala k‰ytt‰‰ palveluitamme p‰ivitt‰in interaktiivisten videoluentojen tarjoamiseen aina Lapin pohjoisimpaan kolkkaan asti ja k‰ytt‰‰ myˆs Medical Meetings varausj‰rjestelm‰‰.</p>
+                <p><a class="btn btn-primary" href="#" role="button">Lue lis‰‰ &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
+
+
             </div><!-- /.row -->
+            <div class="row">
+               <a href="" class="btn btn-primary btn-block"><span class="glyphicon glyphicon-plus"></span> Lue lis‰‰ referensseist‰mme</a>
+            </div>
          </div>
       </div>
 
@@ -122,29 +124,29 @@
 
       </div>
 
-      <div class="stage-blog-posts">
+      <div class="stage-latestnews">
          <div class="container marketing">
          <!-- Three columns of text below the carousel -->
 
             <div class="row">
-               <h1>BLOGKIRJOITUKSIA</h1>
+               <h1>AJANKOHTAISTA</h1>
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
-                <h2>Heading</h2>
-                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                <img src="./img/blog-icon.png" />
+                <h2>I&O-k‰rkihankkeen maakuntatilaisuus Rovaniemell‰</h2>
+                <p>I&O-tilaisuus k‰ynnist‰‰ k‰rkihanketyˆn maakunnassa ja saattaa kaikki muutoksen keskeiset toimijat yhteen. Tilaisuudessa tutustaan k‰rkihankkeeseen, maakunnnan muutosagenttiin ja kokeiluhankkeisiin, p‰ivitet‰‰n tietoja i‰kk‰iden palvelujen ja omaishoidon tilanteesta maakunnissa sek‰ vaikutetaan siihen, millaiseksi hanke alueella muotoutuu...</p>
+                <p><a class="btn btn-info" href="#" role="button">Lue lis‰‰ &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
-                <h2>Heading</h2>
-                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                <img src="./img/blog-icon.png" />
+                <h2>Otava digimateriaalikoulutuksen satoa</h2>
+                <p>Joukko lappilaisia kieltenopettajia kokoontui t‰n‰‰n Otavan digimateriaalikoulutukseen Rovaniemen Lyseonpuiston lukiolle. Koulutuksessa et‰yhteyden p‰‰ss‰ oli myˆs opettajia Enontekiˆn Virtu-palvelupisteelt‰ ja kaikki toimi hienosti! Yhteydet tarjosi Arctic Connect Oy...</p>
+                <p><a class="btn btn-info" href="#" role="button">Lue lis‰‰ &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
-                <h2>Heading</h2>
-                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                <img src="./img/blog-icon.png" />
+                <h2>Arctic WebRTC, neuvottelua Internet-selaimessa</h2>
+                <p>Arctic Connect Oy on julkaissut uuden Arctic WebRTC tuotteensa, joka perustuu Internet-selainpohjaiseen videoneuvotteluun. Viimeisen kahden vuoden aikana Arctic Connect Oy on tehnyt kehitystyˆt‰ ja testannut teknologioita yhdess‰ kehitysyhteistyˆasiakkaidensa kanssa. Nyt pystyt toteuttamaan videoneuvotteluita myˆs pelk‰n Internet-selaimen avulla...</p>
+                <p><a class="btn btn-info" href="#" role="button">Lue lis‰‰ &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
          </div>
@@ -225,7 +227,7 @@
                <p>
                   Meilt‰ saat ratkaisun videoneuvottelutarpeisiisi, oli se millainen tahansa.
                </p>
-               <a href="" class="btn btn-lg btn-success">Ota yhteytt‰</a>
+               <button type="button" class="btn btn-success btn-lg btn-block"><span class="glyphicon glyphicon-earphone"></span> Ota yhteytt‰</button>
             </div>
          </div>
       </div>

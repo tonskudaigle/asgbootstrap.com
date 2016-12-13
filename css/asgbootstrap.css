@@ -142,23 +142,60 @@ img {
    background-size: cover;
 }
 
+/* STAGE H1 BOTTOM MARGIN */
+.stage-key-products h1, .stage-references h1, .stage-latestnews h1, .stage-devices-partners h1, .stage-why-us h1, .stage-contact h1  {
+   margin-bottom: 50px;
+}
+
+.stage-key-products, .stage-references, .stage-latestnews, .stage-devices-partners, .stage-why-us, .stage-contact {
+   filter: opacity(80%);
+}
+
 .stage-key-products {
-   background-color: #FFF;
+   background-color: #006699;
    text-align: center;
    padding: 20px;
+   color: #FFF;
 }
+
+   .stage-key-products h1, h2,.stage-references h1, h2 {
+      color: #FFF;
+   }
+
+   .stage-key-products img, .stage-references img {
+      max-height: 120px;
+      margin-bottom: 10px;
+   }
 
 .stage-references {
    background-color: #FFF;
    text-align: center;
    padding: 20px;
+   color: #333;
 }
 
-.stage-blog-posts {
-   background-color: #FFF;
+   .stage-references h1 {
+      color: #333;
+   }
+
+.stage-latestnews {
+   background-color: #CCCCCC;
    text-align: center;
    padding: 20px;
+   color: #333;
+   text-align: left;
 }
+
+   .stage-latestnews h1 {
+      color: #333;
+      text-align: center;
+   }
+
+   .stage-latestnews h2 {
+      color: #333;
+      font-size: 20px;
+      font-weight: bold;
+   }
 
 .stage-devices-partners {
    background-color: #FFF;
