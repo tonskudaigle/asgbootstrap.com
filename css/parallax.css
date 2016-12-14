@@ -1,0 +1,67 @@
+/** FRONT PAGE PARALLAX **/
+
+.parallax-1 {
+   background-image: url("../img/acwallpaper.jpg");
+   height: 80%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.parallax-2 {
+   background-image: url("../img/home-fhdacbackground.jpg");
+   height: 80%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.parallax-3 {
+   background-image: url("../img/12090040.jpg");
+   height: 80%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.parallax-4 {
+   background-image: url("../img/IMG_0280.jpg");
+   height: 80%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.parallax-5 {
+   background-image: url("../img/FinnFoto_310526.jpg");
+   height: 80%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.parallax-6 {
+   background-image: url("../img/15102010258.jpg");
+   height: 80%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.parallax-2, .parallax-3, .parallax-4, .parallax-5, .parallax-6 {
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(10px);
+  -o-filter: blur(10px);
+  -ms-filter: blur(10px);
+  filter: blur(5px);
+}

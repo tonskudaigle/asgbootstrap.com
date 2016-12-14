@@ -1,8 +1,17 @@
+/** NAVBAR TWEAKS **/
+
+/*.navbar-default {
+   border-bottom: 3px solid #FF9900;
+   background-color: #333;
+   border-radius: 5px;
+}*/
+
 .navbar-default {
   background-color: #006699;
   border-color: #0077b2;
-  border-bottom: #ff9900 3px solid;
+  /*border-bottom: #ff9900 3px solid;*/
 }
+
 .navbar-default .navbar-brand {
   color: #ecf0f1;
 }
@@ -93,4 +102,19 @@
   color: #63DAF4;
   background-color: #0077b2;
   text-transform: uppercase;
+}
+
+/* MENU TWEAKS */
+
+.dropdown-menu {
+   background-color: #333;
+}
+
+.dropdown-header {
+   color: #FF9900;
+   background-color: #666;
+}
+
+.dropdown-divider-bg {
+   color: red;
 }

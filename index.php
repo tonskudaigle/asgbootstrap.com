@@ -163,19 +163,19 @@
             <div class="row">
                <h1>LAITTEET JA PARTNERIT</h1>
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
+                <img src="./img/polycom-logo.png" />
                 <h2>Heading</h2>
                 <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
                 <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
+                <img src="./img/plantronics-logo.png" />
                 <h2>Heading</h2>
                 <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
                 <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
+                <img src="./img/jabra-logo.png" />
                 <h2>Heading</h2>
                 <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
                 <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
@@ -195,22 +195,22 @@
             <div class="row">
                <h1>MIKSI VALITA MEIDƒT?</h1>
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
-                <h2>Heading</h2>
-                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                 <img src="./img/aclogo.png" />
+                 <h2>Arctic Cloud</h2>
+                 <p>Arctic Cloud -kokonaisuutemme mahdollistaa eri konseptien mutkattoman integroimisen ja kattaa takuulla tarpeesi - oli se sitten videoneuvotteluihin osallistumista, j‰rjest‰mist‰ tai sek‰ett‰. Arctic Cloudin avulla mahdollistat sen, ett‰ saat helposti laajennettavan kokonaisuuden ilman aikaa ja resurssia vievi‰ integrointeja ulkopuolisilta hankkijoilta.</p>
+                <p><a class="btn btn-default" href="#" role="button">Lue lis‰‰ &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
-                <h2>Heading</h2>
-                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                <span class="glyphicon glyphicon-plus"></span>
+                <h2>Palvelukeskus</h2>
+                <p>Paljon kiitosta niitt‰nyt palvelukeskuksemme palvelee sinua teknisiss‰ ongelmissa asiantuntijuudella, joka hakee vertaistaan. Erikoistumisemme suurten merkkien kuten Polycom, Cisco, Plantronics, Jabra -asiantuntijoina ja partnereina antaa meille ylpeydenaihetta, joka kaikuu palvelukeskuksen toiminnan laadun takeena.</p>
+                <p><a class="btn btn-default" href="#" role="button">Lue lis‰‰ &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
-                <img src="./img/newsdot.png" />
-                <h2>Heading</h2>
+                <img src="./img/arctic-communicator-logo.png" id="ac-logo-why-us"/>
+                <h2>Arctic Communicator</h2>
                 <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                <p><a class="btn btn-default" href="#" role="button">Lue lis‰‰ &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
          </div>
